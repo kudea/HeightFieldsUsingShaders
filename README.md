@@ -34,7 +34,7 @@ the .jpg can be any pic inside the heightmap folder
 ```
 
 
-##Environment:
+## My Environment:
 ```
 OpenGL Version: 4.1 Metal - 76.1
 OpenGL Renderer: Apple M1
