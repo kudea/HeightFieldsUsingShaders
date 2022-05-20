@@ -1,6 +1,6 @@
 # Computer Graphic - Height Fields Using Shaders
 
-### taught by Dr. Jernej Barbič
+##### taught by Dr. Jernej Barbič
 
 ## Before you start the code, please check your system environment.
 
