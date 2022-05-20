@@ -41,6 +41,8 @@ OpenGL Renderer: Apple M1
 Shading Language Version: 4.10
 API: OpenGL (Core Profile)
 ```
+## Animation
+Demo video: https://youtu.be/LSj9oB2tLNk
 
 ## Function:
 
