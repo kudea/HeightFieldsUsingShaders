@@ -1,5 +1,7 @@
 # Computer Graphic - Height Fields Using Shaders
 
+### taught by Dr. Jernej Barbič
+
 ## Before you start the code, please check your system environment.
 
 For the Windows platform, we provide the Visual Studio 2017 and 2019 solution/project files in ./hw1-starterCode (same files for both 2017 and 2019).
