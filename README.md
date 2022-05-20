@@ -104,3 +104,23 @@ It can detect if the image is color or grayscale, and render accordingly.
 ((it is better to view the color.jpg when landRotate[0] = 30.0f;))
 
 6. I animate my render image with interesting effect, bounce, bounce, bounce.
+
+EXAMPLE
+
+![000](https://user-images.githubusercontent.com/51981236/169444165-7bedbe90-1bbf-4ed2-a07a-42cb11a1d45f.jpg)
+![009](https://user-images.githubusercontent.com/51981236/169444191-ddaa3e09-6a96-40e5-abe1-8739fea0e2a9.jpg)
+![020](https://user-images.githubusercontent.com/51981236/169444212-118549f0-9a56-4e8f-aebc-f9cdeb23fa53.jpg)
+![057](https://user-images.githubusercontent.com/51981236/169444229-12326408-505a-423e-9b83-2d4ac171dee9.jpg)
+![066](https://user-images.githubusercontent.com/51981236/169444260-a3818d38-e928-4ead-a1ef-52cbbf1103d9.jpg)
+
+![076](https://user-images.githubusercontent.com/51981236/169444278-ba2de6cb-ea0c-4aef-b51d-80dff9e74e69.jpg)
+![084](https://user-images.githubusercontent.com/51981236/169444296-99a189ed-01b4-4ae8-91ac-be582e310b0f.jpg)
+![127](https://user-images.githubusercontent.com/51981236/169444325-3d27d4c3-3c97-487d-b885-0e0057da16e8.jpg)
+
+![136](https://user-images.githubusercontent.com/51981236/169444345-0649ee5a-6c40-43f0-893d-dcb787f4321a.jpg)
+![145](https://user-images.githubusercontent.com/51981236/169444364-6406af04-dffa-4f44-84f7-f22e729ffd4c.jpg)
+
+![248](https://user-images.githubusercontent.com/51981236/169444400-9b73ea6d-cd36-4d1e-9f7b-ad07020d54df.jpg)
+![259](https://user-images.githubusercontent.com/51981236/169444423-822c1882-0564-4a82-8100-74bddcf7b00f.jpg)
+![275](https://user-images.githubusercontent.com/51981236/169444449-ef28b1de-881d-4a38-9e24-fd51f4cc60f5.jpg)
+
